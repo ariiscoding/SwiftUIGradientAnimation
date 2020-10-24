@@ -1,3 +1,3 @@
-struct SwiftUIGradientAnimation {
-    var text = "Hello, World!"
-}
+import Foundation
+
+typealias SwiftUIGradientAnimation = GradientAnimation
